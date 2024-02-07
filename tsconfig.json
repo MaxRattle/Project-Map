@@ -23,6 +23,5 @@
 		"rootDir": "./src",
 		"outDir": "./dist"
 	},
-	"include": ["src"],
-	"exclude": ["config.ts"]
+	"include": ["src"]
 }
